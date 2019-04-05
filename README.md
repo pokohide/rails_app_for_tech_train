@@ -5,15 +5,23 @@
 1. 4択の質問を回答していく
 2. 回答結果から「性格」だったり「数値」を可視化
 
+## 事前準備
+
+Dockerをインストールしておくこと。以上
+
+```
+https://www.docker.com/products/docker-desktop
+```
+
 ## サービスURL
 
-`???`
+`https:/serene-reaches-15179.herokuapp.com/`
 
 Herokuに挙げたら更新する
 
 ## ハンズオン資料
 
-`???`
+`https://speakerdeck.com/hyde2able/techtrain-rorhansuon`
 
 資料ができ次第、更新する
 
